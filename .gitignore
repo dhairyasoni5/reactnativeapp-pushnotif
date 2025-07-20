@@ -17,3 +17,7 @@ ios/Pods/
 *.vscode/
 .DS_Store
 .env
+# Sensitive service files
+android/app/google-services.json
+vedasdemo-*.json
+*.env
