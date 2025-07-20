@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599348322596",
+    "project_id": "vedasdemo",
+    "storage_bucket": "vedasdemo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599348322596:android:6fff05c13518b69dadd3b1",
+        "android_client_info": {
+          "package_name": "com.vedazdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI_j0ZjY3py6RBkbKZzTpahsTod8xhatk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
